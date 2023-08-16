@@ -1,2 +1,5 @@
-- angka dari main
-- angka dari main
+angka dari belajar
+1
+2
+3
+4
