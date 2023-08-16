@@ -1,8 +1,2 @@
-ini adalah contoh belajar file
-bagaimana jika terjadi perubhanan
-tumbuhan
-belajar 
-sayur
-kopi
 -- ini di branch main
 -- tambahan di branch main
